@@ -7,11 +7,11 @@ _by Stephen Wang_
 
 **Git and Github** is two very **different system** throughout coding. 
 
->**Git** is it own independent variable as it's a version control. Means that it keep "snapshot" of the code you made incase you want to revert back to the original code. This doesn't require Github and it runs on the command line. You have a basic workflow throughout this by:
+>**Git** is it own independent variable as it's a version control. Means that it keep "snapshot" of the code you made incase you want to revert back to the original code. Git doesn't require Github and it runs on the command line. You have a basic workflow throughout this by:
 
 * Making Directory then "cd" into the directory.
 * You can initialized the directory into the respository.
-* You can edit the files(Save along the way).
+* You can edit the files(Saves along the way).
 * You can add files.
 * You can commit them.
 
